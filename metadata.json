@@ -1,0 +1,9 @@
+{
+  "name": "Camera Man",
+  "description": "Offline camera, photo and video gallery Progressive Web App with local storage and instant capture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
